@@ -1,4 +1,11 @@
-### Hi there,I'm Merve 👋
+### Hi there, I'm Merve 👋
+
+* 🌱 Learning new things everyday.
+* 💻 Love to listening to music and writing code.
+
+#### Skills and Experience
+* HTML, CSS, JavaScript, Java
+* MySQL, Firebase, Microsoft SQL Server, SQLite
 
 <!--
 **merveakinn/merveakinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
