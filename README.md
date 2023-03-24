@@ -9,9 +9,7 @@ Skills:
 
 <img src="https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%23ED8B00.svg?&style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/html-%23FA7343.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-#### Skills and Experience
-* HTML, CSS, JavaScript, Java
-* MySQL, Firebase, Microsoft SQL Server, SQLite
+
 
 <!--
 **merveakinn/merveakinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
