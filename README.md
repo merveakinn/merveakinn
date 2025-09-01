@@ -1,7 +1,6 @@
 ### Hi there, I'm Merve 👋
 
 Who I Am & What I Do
-* 👩 I'm a 4th year university student.
 * 🌱 Learning new things everyday.
 * 💻 Love to listening to music and writing code.
 
